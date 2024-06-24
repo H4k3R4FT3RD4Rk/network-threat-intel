@@ -20,7 +20,7 @@ The IP Information Query Tool is a Python script designed to query IP informatio
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/H4k3R4FT3RD4Rk/inetwork-threat-intel.git
+   git clone https://github.com/H4k3R4FT3RD4Rk/network-threat-intel.git
    cd ip-info-query-tool
    ```
 
