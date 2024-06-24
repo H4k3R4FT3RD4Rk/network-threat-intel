@@ -1,4 +1,3 @@
-```markdown
 # IP Information Query Tool
 
 ## Description
@@ -103,5 +102,3 @@ python script.py -f ip_list.txt -d 30 -c output.csv
  |_|  |_|  |_| |_|\_\____/|_|  \_\  |_| |_|       |_|  |____/|_|  \_\_____/   |_| |_|  \_\_|\_\
 ```
 ```
-
-Simply copy the above content into a file named `README.md` in the same directory as your script.
