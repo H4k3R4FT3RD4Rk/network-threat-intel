@@ -40,7 +40,7 @@ The IP Information Query Tool is a Python script designed to query IP informatio
 To query a single IP address, use the `-i` or `--ip` option followed by the IP address.
 
 ```bash
-python script.py -i 8.8.8.8 -d 30
+python network_threat_intel.py -i 8.8.8.8 -d 30
 ```
 
 ### Query from a File
@@ -48,7 +48,7 @@ python script.py -i 8.8.8.8 -d 30
 To query multiple IP addresses from a text file, use the `-f` or `--file` option followed by the file path.
 
 ```bash
-python script.py -f ip_list.txt -d 30
+python network_threat_intel.py -f ip_list.txt -d 30
 ```
 
 ### Save Output to CSV
@@ -56,7 +56,7 @@ python script.py -f ip_list.txt -d 30
 To save the output to a CSV file, use the `-c` or `--csv` option followed by the CSV file name.
 
 ```bash
-python script.py -i 8.8.8.8 -c output.csv
+python network_threat_intel.py -i 8.8.8.8 -c output.csv
 ```
 
 ### Save Output to JSON
@@ -64,7 +64,7 @@ python script.py -i 8.8.8.8 -c output.csv
 To save the output to a JSON file, use the `-jf` or `--json-file` option followed by the JSON file name.
 
 ```bash
-python script.py -i 8.8.8.8 -jf output.json
+python network_threat_intel.py -i 8.8.8.8 -jf output.json
 ```
 
 ### Output in JSON Format
@@ -72,7 +72,7 @@ python script.py -i 8.8.8.8 -jf output.json
 To print the output in JSON format to the console, use the `-j` or `--json` option.
 
 ```bash
-python script.py -i 8.8.8.8 -j
+python network_threat_intel.py -i 8.8.8.8 -j
 ```
 
 ## Arguments
@@ -87,8 +87,8 @@ python script.py -i 8.8.8.8 -j
 ## Example Usage
 
 ```bash
-python script.py -i 8.8.8.8 -d 30 -j
-python script.py -f ip_list.txt -d 30 -c output.csv
+python network_threat_intel.py -i 8.8.8.8 -d 30 -j
+python network_threat_intel.py -f ip_list.txt -d 30 -c output.csv
 ```
 
 ## Developed By
