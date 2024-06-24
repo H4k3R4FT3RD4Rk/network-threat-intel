@@ -1,0 +1,4 @@
+requests
+python-dotenv
+netaddr
+ipaddress; python_version<"3.3"
