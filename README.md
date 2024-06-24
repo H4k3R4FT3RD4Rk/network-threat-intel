@@ -26,7 +26,7 @@ The IP Information Query Tool is a Python script designed to query IP informatio
 
 2. **Install Required Libraries**
    ```bash
-   pip3 install requests
+   pip3 install -r requirements.txt
    ```
 
 3. **Set Up Your AbuseIPDB API Key**
