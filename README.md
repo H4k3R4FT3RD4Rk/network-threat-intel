@@ -1,8 +1,8 @@
-# IP Information Query Tool
+# Network Threat Intel tool
 
 ## Description
 
-The IP Information Query Tool is a Python script designed to query IP information from AbuseIPDB. It can process single IP addresses or a list of IP addresses from a text file. The results can be output to the console, saved to a CSV file, or saved to a JSON file.
+The Network Threat Intel tool is a Python script designed to query IP information from AbuseIPDB. It can process single IP addresses or a list of IP addresses from a text file. The results can be output to the console, saved to a CSV file, or saved to a JSON file.
 
 ## Features
 
